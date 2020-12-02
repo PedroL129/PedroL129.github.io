@@ -1,3 +1,9 @@
-# Hello, my name is Pedro
+---
+layout: home
+author_profile: true
+---
 
-## I am a software engineer and this is my personal website
+
+Hello, my name is Pedro
+
+I am a software engineer and this is my personal website

@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: 'dark' # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+locale: 'en'
+
+title: PedroL129
+description: 'Powered by Jekyll and minimal-mistakes theme'
+
+repository: 'pedrol129/pedrol129.github.io'
+
+title_separator: '-'
+
+author:
+  name: 'Pedro Luis Martinez Gonçalves'
+  avatar: '/others/profile.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: 'Software Engineer at Optare Solutions'
+  location: 'Mos, Galicia - Spain'
+  github: 'pedrol129'
+  linkedin: 'pedro-luis-mart%C3%ADnez-gon%C3%A7alves-0222735a?trk=nav_responsive_tab_profile_pic'
+
+footer:
+  links:
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      color: white
+      url: 'https://github.com/pedrol129'
+    - label: 'Linkedin'
+      icon: 'fab fa-fw fa-linkedin'
+      url: 'https://www.linkedin.com/in/pedro-luis-mart%C3%ADnez-gon%C3%A7alves-0222735a/'
+
+include:
+  - _pages
