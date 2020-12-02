@@ -28,9 +28,13 @@ footer:
       icon: 'fab fa-fw fa-linkedin'
       url: 'https://www.linkedin.com/in/pedro-luis-mart%C3%ADnez-gon%C3%A7alves-0222735a/'
 
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
 include:
   - _pages
-  
+
 # Defaults
 defaults:
   # _posts
